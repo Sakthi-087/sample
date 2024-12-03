@@ -1,1 +1,1 @@
-Creates a sample file.
+Edited a sample file.
